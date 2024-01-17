@@ -5,4 +5,4 @@ Please install RPG maker first, before you dive into the project.
 After you intall RPG maker, use RPG Maker to open the file "Game.rpgproject", then you can start editting.
 
 
-The file of cmapus map is "map002".
+The file of campus map is "map002".
