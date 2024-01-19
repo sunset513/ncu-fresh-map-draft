@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"MAPCampus","order":2,"parentId":1,"scrollX":7632,"scrollY":11233.199999999999},
+{"id":2,"expanded":true,"name":"MAPCampus","order":2,"parentId":1,"scrollX":6709.2,"scrollY":11328.6},
 {"id":3,"expanded":false,"name":"InsideLibrary","order":3,"parentId":2,"scrollX":1121,"scrollY":1187.5}
 ]
