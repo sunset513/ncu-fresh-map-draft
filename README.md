@@ -12,7 +12,7 @@ The file of campus map is "map002".
 2. files in the "img", "audio" folders are defualt; files in picturesCustom are update by myself.
 
 ---------------------------------
-中文版:
+中文版。
 **這是2024 新生知訊網的地圖**
 
 在開始之前，請先下載RPG Maker MV。
