@@ -2,7 +2,12 @@
 
 Please install RPG maker first, before you dive into the project.
 
-After you intall RPG maker, use RPG Maker to open the file "Game.rpgproject", then you can start editting.
+After you intall RPG maker, use RPG Maker to open the file "Game.rpgproject", then you can start editting~
 
 
 The file of campus map is "map002".
+
+
+注意事項:
+img, audio 資料夾內為rpg maker預設的檔案
+picturesCustom 資料夾內是自己上傳的
