@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":641.6,"scrollY":342},
-{"id":2,"expanded":true,"name":"MAPCampus","order":2,"parentId":1,"scrollX":6338.181818181818,"scrollY":11298},
-{"id":3,"expanded":false,"name":"InsideLibrary","order":3,"parentId":2,"scrollX":816,"scrollY":800},
-{"id":4,"expanded":false,"name":"MAPMidnightSnacksStreet","order":4,"parentId":1,"scrollX":4234.666666666667,"scrollY":2520}
+{"id":2,"expanded":true,"name":"MAPCampus","order":2,"parentId":1,"scrollX":7622.4,"scrollY":8184},
+{"id":3,"expanded":false,"name":"InsideLibrary","order":3,"parentId":2,"scrollX":3499.636363636364,"scrollY":1865.4545454545455},
+{"id":4,"expanded":false,"name":"MAPMidnightSnacksStreet","order":4,"parentId":1,"scrollX":3700.3636363636365,"scrollY":1830.5454545454547}
 ]
