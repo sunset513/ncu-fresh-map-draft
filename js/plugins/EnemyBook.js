@@ -179,7 +179,6 @@
     Window_EnemyBookIndex.prototype.maxCols = function() {
         return 3;
     };
-    
 
     Window_EnemyBookIndex.prototype.maxItems = function() {
         return this._list ? this._list.length : 0;
