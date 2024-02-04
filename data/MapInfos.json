@@ -1,5 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"main","order":1,"parentId":0,"scrollX":541.1999999999999,"scrollY":365.4},
-{"id":2,"expanded":false,"name":"library","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":648}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1228.5,"scrollY":672},
+{"id":2,"expanded":true,"name":"MAPCampus","order":2,"parentId":1,"scrollX":6310.666666666667,"scrollY":11594.666666666666},
+{"id":3,"expanded":false,"name":"InsideLibrary","order":3,"parentId":2,"scrollX":2212,"scrollY":1312},
+{"id":4,"expanded":false,"name":"MAPMidnightSnacksStreet","order":5,"parentId":1,"scrollX":2032,"scrollY":1776},
+{"id":5,"expanded":false,"name":"MATH","order":4,"parentId":2,"scrollX":1216.5,"scrollY":1008}
 ]
