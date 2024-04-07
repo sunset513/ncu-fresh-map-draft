@@ -7,12 +7,12 @@ After you intall RPG maker, use RPG Maker MV to open the file "Game.rpgproject",
 
 The file of campus map is "map002".
 
-**Notice**
-1. Please create your branch first.
-2. files in the "img", "audio" folders are defualt; files in picturesCustom are update by myself.
+**How to  get start?**
+You can read this file:
+https://docs.google.com/document/d/19hffPNh-YRAo5HteKgGrG9JSs7_wcSXgrC_1UpjmeQk/edit#heading=h.3pdjrfxn5iy6
 
 ---------------------------------
-中文版。
+中文版本
 
 **這是2024 新生知訊網的地圖**
 
@@ -24,6 +24,6 @@ The file of campus map is "map002".
 校園地圖的檔案是 map002。
 
 
-**注意事項**
-1. 請先創建自己的分支。
-2. img, audio 資料夾內為 rpg maker 預設的檔案；picturesCustom 資料夾內是自己上傳的。
+**如何開始?**
+操作教學請參考這份連結:
+https://docs.google.com/document/d/19hffPNh-YRAo5HteKgGrG9JSs7_wcSXgrC_1UpjmeQk/edit#heading=h.3pdjrfxn5iy6
