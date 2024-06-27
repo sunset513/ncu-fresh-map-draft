@@ -8,9 +8,11 @@ After you intall RPG maker, use RPG Maker MV to open the file "Game.rpgproject",
 The file of campus map is "map002".
 
 **Notice**
-1. Please create your branch first.
+1. Please fork your own repo.
 2. files in the "img", "audio" folders are defualt; files in picturesCustom are update by myself.
-
+[tutorial document:
+](https://docs.google.com/document/d/19hffPNh-YRAo5HteKgGrG9JSs7_wcSXgrC_1UpjmeQk/edit?usp=sharing
+)
 ---------------------------------
 中文版。
 
@@ -25,6 +27,9 @@ The file of campus map is "map002".
 
 
 **注意事項**
-1. 請先創建自己的分支。
+1. 請先 fork 你自己的 repo。
 2. img, audio 資料夾內為 rpg maker 預設的檔案；picturesCustom 資料夾內是自己上傳的。
-# ncu-fresh-map-draft
+3. 
+[教學文件:
+](https://docs.google.com/document/d/19hffPNh-YRAo5HteKgGrG9JSs7_wcSXgrC_1UpjmeQk/edit?usp=sharing
+)
