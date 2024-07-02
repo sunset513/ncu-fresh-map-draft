@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1263.2727272727273,"scrollY":902.1818181818182},
-{"id":2,"expanded":true,"name":"MAPCampus","order":2,"parentId":1,"scrollX":6858.666666666667,"scrollY":3336},
-{"id":3,"expanded":false,"name":"InsideLibrary","order":3,"parentId":2,"scrollX":1263.2727272727273,"scrollY":902.1818181818182},
-{"id":4,"expanded":false,"name":"MAPMidnightSnacksStreet","order":4,"parentId":1,"scrollX":3700.3636363636365,"scrollY":1515.2727272727273}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":3573.818181818182,"scrollY":1954.909090909091},
+{"id":2,"expanded":true,"name":"MAPCampus","order":2,"parentId":1,"scrollX":6344.727272727273,"scrollY":6938.181818181818},
+{"id":3,"expanded":false,"name":"InsideLibrary","order":3,"parentId":2,"scrollX":3573.818181818182,"scrollY":1954.909090909091},
+{"id":4,"expanded":false,"name":"MAPMidnightSnacksStreet","order":4,"parentId":1,"scrollX":5578,"scrollY":1106}
 ]
