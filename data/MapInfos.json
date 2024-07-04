@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1263.2727272727273,"scrollY":902.1818181818182},
-{"id":2,"expanded":true,"name":"MAPCampus","order":2,"parentId":1,"scrollX":5635.2,"scrollY":3892.7999999999997},
-{"id":3,"expanded":false,"name":"InsideLibrary","order":3,"parentId":2,"scrollX":1263.2727272727273,"scrollY":902.1818181818182},
-{"id":4,"expanded":false,"name":"MAPMidnightSnacksStreet","order":4,"parentId":1,"scrollX":3700.3636363636365,"scrollY":1515.2727272727273}
-]
